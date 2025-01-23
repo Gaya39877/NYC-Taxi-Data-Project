@@ -7,6 +7,7 @@ This is Graphical representation of this prooject.
 
 Used Technologies and Tools : Microsoft Fabric Data Engineering
 
-#Data Source : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page 
+Data Source : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page 
 
-#Medium Link : https://medium.com/@gayathrirasangikahw/end-to-end-data-engineering-project-using-microsoft-fabric-c3caf96a99b4 
+Check Out the Project
+Medium Link : https://medium.com/@gayathrirasangikahw/end-to-end-data-engineering-project-using-microsoft-fabric-c3caf96a99b4 
